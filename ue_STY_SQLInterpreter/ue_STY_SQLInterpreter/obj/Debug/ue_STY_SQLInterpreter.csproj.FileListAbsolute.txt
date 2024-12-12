@@ -1,0 +1,16 @@
+C:\Infor-Custom-Development\CloudSuite Development\External Assemblies\ue_STY_SQLInterpreter\ue_STY_SQLInterpreter\bin\Debug\ue_STY_SQLInterpreter.dll
+C:\Infor-Custom-Development\CloudSuite Development\External Assemblies\ue_STY_SQLInterpreter\ue_STY_SQLInterpreter\bin\Debug\ue_STY_SQLInterpreter.pdb
+C:\Infor-Custom-Development\CloudSuite Development\External Assemblies\ue_STY_SQLInterpreter\ue_STY_SQLInterpreter\bin\Debug\IDOBase.dll
+C:\Infor-Custom-Development\CloudSuite Development\External Assemblies\ue_STY_SQLInterpreter\ue_STY_SQLInterpreter\bin\Debug\IDOCore.dll
+C:\Infor-Custom-Development\CloudSuite Development\External Assemblies\ue_STY_SQLInterpreter\ue_STY_SQLInterpreter\bin\Debug\IDOProtocol.dll
+C:\Infor-Custom-Development\CloudSuite Development\External Assemblies\ue_STY_SQLInterpreter\ue_STY_SQLInterpreter\bin\Debug\MGShared.dll
+C:\Infor-Custom-Development\CloudSuite Development\External Assemblies\ue_STY_SQLInterpreter\ue_STY_SQLInterpreter\bin\Debug\WSEnums.dll
+C:\Infor-Custom-Development\CloudSuite Development\External Assemblies\ue_STY_SQLInterpreter\ue_STY_SQLInterpreter\bin\Debug\MGSharedResources.dll
+C:\Infor-Custom-Development\CloudSuite Development\External Assemblies\ue_STY_SQLInterpreter\ue_STY_SQLInterpreter\bin\Debug\WSFormServerProtocol.dll
+C:\Infor-Custom-Development\CloudSuite Development\External Assemblies\ue_STY_SQLInterpreter\ue_STY_SQLInterpreter\bin\Debug\Newtonsoft.Json.dll
+C:\Infor-Custom-Development\CloudSuite Development\External Assemblies\ue_STY_SQLInterpreter\ue_STY_SQLInterpreter\bin\Debug\System.Threading.AccessControl.dll
+C:\Infor-Custom-Development\CloudSuite Development\External Assemblies\ue_STY_SQLInterpreter\ue_STY_SQLInterpreter\obj\Debug\ue_STY_SQLInterpreter.csproj.AssemblyReference.cache
+C:\Infor-Custom-Development\CloudSuite Development\External Assemblies\ue_STY_SQLInterpreter\ue_STY_SQLInterpreter\obj\Debug\ue_STY_SQLInterpreter.csproj.CoreCompileInputs.cache
+C:\Infor-Custom-Development\CloudSuite Development\External Assemblies\ue_STY_SQLInterpreter\ue_STY_SQLInterpreter\obj\Debug\ue_STY_S.2978A051.Up2Date
+C:\Infor-Custom-Development\CloudSuite Development\External Assemblies\ue_STY_SQLInterpreter\ue_STY_SQLInterpreter\obj\Debug\ue_STY_SQLInterpreter.dll
+C:\Infor-Custom-Development\CloudSuite Development\External Assemblies\ue_STY_SQLInterpreter\ue_STY_SQLInterpreter\obj\Debug\ue_STY_SQLInterpreter.pdb
